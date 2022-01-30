@@ -40,8 +40,8 @@
     display: inline-block;
     margin: 0 10px;
     padding: 12px 0;
-    color: rgb(61, 59, 59);
-    border: .5px solid rgb(61, 59, 59);
+    color: rgb(0, 0, 0);
+    border: .5px solid rgb(0, 0, 0);
     position: relative;
     z-index: 1;
     transition: color 0.5;
